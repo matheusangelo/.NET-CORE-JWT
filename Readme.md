@@ -1,5 +1,5 @@
 # Login WebAPI
-## Simple App with .NET Core 3.1 to shows how the auth with JWT works
+## Simple App with .NET Core 3.1 with JWT works
 
 ### Folders Structure
 - Domain

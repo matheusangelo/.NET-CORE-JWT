@@ -1,0 +1,9 @@
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain\bin\Debug\netstandard2.0\Login.Domain.deps.json
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain\bin\Debug\netstandard2.0\Login.Domain.dll
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain\bin\Debug\netstandard2.0\Login.Domain.pdb
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain\obj\Debug\netstandard2.0\Login.Domain.csprojAssemblyReference.cache
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain\obj\Debug\netstandard2.0\Login.Domain.AssemblyInfoInputs.cache
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain\obj\Debug\netstandard2.0\Login.Domain.AssemblyInfo.cs
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain\obj\Debug\netstandard2.0\Login.Domain.csproj.CoreCompileInputs.cache
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain\obj\Debug\netstandard2.0\Login.Domain.dll
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain\obj\Debug\netstandard2.0\Login.Domain.pdb

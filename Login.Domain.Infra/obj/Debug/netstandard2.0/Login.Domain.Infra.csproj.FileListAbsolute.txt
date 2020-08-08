@@ -1,0 +1,12 @@
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain.Infra\bin\Debug\netstandard2.0\Login.Domain.Infra.deps.json
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain.Infra\bin\Debug\netstandard2.0\Login.Domain.Infra.dll
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain.Infra\bin\Debug\netstandard2.0\Login.Domain.Infra.pdb
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain.Infra\bin\Debug\netstandard2.0\Login.Domain.dll
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain.Infra\bin\Debug\netstandard2.0\Login.Domain.pdb
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain.Infra\obj\Debug\netstandard2.0\Login.Domain.Infra.csprojAssemblyReference.cache
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain.Infra\obj\Debug\netstandard2.0\Login.Domain.Infra.AssemblyInfoInputs.cache
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain.Infra\obj\Debug\netstandard2.0\Login.Domain.Infra.AssemblyInfo.cs
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain.Infra\obj\Debug\netstandard2.0\Login.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain.Infra\obj\Debug\netstandard2.0\Login.Domain.Infra.csproj.CopyComplete
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain.Infra\obj\Debug\netstandard2.0\Login.Domain.Infra.dll
+C:\Pessoal\Dev\Microsoft\.NET\LoginSample\Login.Domain.Infra\obj\Debug\netstandard2.0\Login.Domain.Infra.pdb
